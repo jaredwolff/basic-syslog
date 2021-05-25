@@ -1,0 +1,8 @@
+.git
+.gitignore
+
+target
+
+Makefile
+
+_out
